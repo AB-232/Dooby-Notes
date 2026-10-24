@@ -36,7 +36,7 @@ A very simple Android notes application built with Kotlin and XML, created mainl
 
 ## 📥 Download APK
 
-🚀 **[Click Here to Download Notes App APK](apk/Dooby_Notes_app.apk?raw=true)**
+🚀 **[Click Here to Download Notes App APK](apk/Notes_app.apk?raw=true)**
 
 ## 👨‍💻 Developer
 
