@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dooby Notes</string>
+    <string name="Title_example">Title</string>
+    <string name="priority_example">10</string>
+    <string name="description_example">Description</string>
+    <string name="priority_text">Priority</string>
+</resources>
